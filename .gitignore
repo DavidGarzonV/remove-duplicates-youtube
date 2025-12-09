@@ -1,0 +1,35 @@
+# Archivos de autenticación OAuth
+oauth.json
+headers_auth.json
+config.json
+token.pickle
+
+# Archivos de salida generados
+playlist_songs.json
+playlist_songs_filtered.json
+playlist_songs_removed.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
