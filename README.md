@@ -112,3 +112,10 @@ YouTube Data API v3 has daily quotas:
 - ✅ Better documentation and support
 - ✅ Works with any YouTube playlist (not just YouTube Music)
 - ✅ Standard OAuth authentication
+
+
+# Shazam import 
+
+Execute ``py .\shazam_import.py``
+
+- Use a route like ``F:\Users\David\Downloads\shazamlibrary.csv``
