@@ -8,6 +8,9 @@ token.pickle
 playlist_songs.json
 playlist_songs_filtered.json
 playlist_songs_removed.json
+deduplicated_songs.csv
+unmatched_songs.csv
+failed_to_add_songs.csv
 
 # Python
 __pycache__/
